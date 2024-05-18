@@ -73,7 +73,7 @@ class _HomeScreenState extends State<HomeScreen> {
             context: context,
             builder: (context) {
               return AlertDialog(
-                backgroundColor: Colors.blue,
+                backgroundColor: Colors.transparent,
                 actions: [
                   Container(
                     height: 200,
